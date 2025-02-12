@@ -1,6 +1,6 @@
 # AWS Resume Cloud Challenge
 
-This project is part of the AWS Resume Cloud Challenge by Forrest Brazeal. It showcases a serverless static website hosted on AWS S3 and CloudFront, with a visitor counter powered by Lambda, API Gateway, and DynamoDB.
+This project is part of the AWS Resume Cloud Challenge by Forrest Brazeal. It showcases a serverless static website hosted on AWS S3 and CloudFront, with a visitor counter powered by Lambda, and DynamoDB.
 
 ## Features:
 ✅ Static website hosting with **Amazon S3 & CloudFront**  
